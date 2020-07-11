@@ -1,0 +1,186 @@
+[
+    {
+        "name": "XP Lite™",
+        "sku": "xp-lite",
+        "url_key": "xp-lite",
+        "base_plan": [
+            {
+                "name": "XP Lite™",
+                "sku": "xp-b-plan",
+                "offer": "1GB Monthly Internet<br><br>\r\nUnlimited Calls to All Networks",
+                "selected_offer_title": null,
+                "monthly_plan": "28.00",
+                "data_limit": "1",
+                "order_plan_bundle": "PB12828",
+                "segment": null,
+                "upfront_installment": null,
+                "contract": null,
+                "plan_name": "XP Lite™",
+                "plan_title": "Base Plan",
+                "plan_subtitle": null,
+                "product_type": null,
+                "product_text": null,
+                "key_figures_text": "1GB",
+                "key_text": "RM28",
+                "image_url": "/media/catalog/product/x/p/xp_lite_name-01_5__2_1.png",
+                "device_allowed": "0",
+                "selected_pass": false,
+                "is_campaign_mviva": true,
+                "campaign_mviva": {
+                    "desktop_content": "<p><span style=\"text-decoration: underline;\"><em><strong>XP Lite campaign with device test</strong></em></span></p>",
+                    "mobile_content": "<p><span style=\"text-decoration: underline;\"><em><strong>XP Lite campaign with device test</strong></em></span></p>",
+                    "device_bundle": "1",
+                    "easyphone": "0",
+                    "targeted_plan": [
+                        "xp-lite|xp-lite",
+                        "xp-s-pass"
+                    ],
+                    "no_upfront_payment": true,
+                    "related_campaigns": "0",
+                    "purchase_type": [
+                        "newline",
+                        "cobp"
+                    ],
+                    "is_moon_campaign": "1",
+                    "summary_message": "XP Lite campaign with device test",
+                    "optional_easyphone_auto_billing": "1",
+                    "can_buy_supplementary_lines": "1"
+                },
+                "campaign_mviva_invalid": null
+            }
+        ],
+        "pass_plan": [
+            {
+                "name": "L",
+                "sku": "xp-l-pass",
+                "offer": "<br />11GB Internet\r\n  <br>Free 3GB Video Walla™\r\n  <br>Free* 1 hour Ultra Hour Pass™ every day when you Stay On<br><br>",
+                "selected_offer_title": null,
+                "monthly_plan": "30.00",
+                "data_limit": "14",
+                "order_plan_bundle": "CPT12831",
+                "segment": null,
+                "upfront_installment": null,
+                "contract": "df",
+                "plan_name": "L",
+                "plan_title": null,
+                "plan_subtitle": null,
+                "product_type": null,
+                "product_text": null,
+                "key_figures_text": "14GB",
+                "key_text": "RM30",
+                "image_url": "/media/catalog/product/x/p/xp_lite_name-01_5__2.png",
+                "device_allowed": 1,
+                "selected_pass": true,
+                "associated_bundle_product": [
+                    {
+                        "name": "Oppo F5",
+                        "sku": "Oppo-F5",
+                        "price": 0,
+                        "quntity": null,
+                        "order_monthly_pay": "80.00",
+                        "most_popular": "1",
+                        "rm": "0.00",
+                        "rrp_rm_strick_price": "1224.53",
+                        "main_image": "/media/catalog/product/f/r/front_1_7.png",
+                        "sub_images": [
+                            "/media/catalog/product/f/r/front_1_7.png"
+                        ],
+                        "dimension": "155.9 ×75.8 × 7.7mm ",
+                        "weight": "195.0000",
+                        "splash_water_dust_resistant": "0",
+                        "stock": "Limited Stock",
+                        "order_category": "HP",
+                        "order_model": " MT6763T",
+                        "order_brand": "OPPO",
+                        "segment": "10",
+                        "default_selected_color": "Gold",
+                        "default_selected_memory": "32GB",
+                        "stock_indicator_image": "/media/catalog/product",
+                        "stock_indicator_text": null,
+                        "default_device_option": "easyPhone",
+                        "associated_device_product": [
+                            {
+                                "name": "Oppo F5 32GB Gold ",
+                                "sku": "oppf5gld32gb",
+                                "rrp": "1224.53",
+                                "discounted_device_rrp": "0.00",
+                                "color": "Gold",
+                                "memory": "32GB",
+                                "order_color": "GLD",
+                                "order_category": "HP",
+                                "color_hexa": "#cdbeab",
+                                "image": "/media/catalog/product/f/r/front_1_6.png",
+                                "desc": "24 months contract",
+                                "sub_images": [
+                                    "/media/catalog/product/f/r/front_1_6.png",
+                                    "/media/catalog/product/9/0/900x900_5_2.png"
+                                ],
+                                "order_model": "F5",
+                                "part_number": "MDR5617",
+                                "product_type": "HP",
+                                "new_customer": "0",
+                                "segment": null,
+                                "contract": "24",
+                                "upfront_installment": "8",
+                                "prices": {
+                                    "upfront_price": "1400",
+                                    "device_price": "148",
+                                    "penalty_price": "500",
+                                    "supplementary_count": 0,
+                                    "special_price": 0
+                                }
+                            },
+                            {
+                                "name": "Oppo F5 32GB Black",
+                                "sku": "oppf5b32gb",
+                                "rrp": "1224.53",
+                                "discounted_device_rrp": "0.00",
+                                "color": "Black",
+                                "memory": "32GB",
+                                "order_color": "BLK",
+                                "order_category": "HP",
+                                "color_hexa": "#000000",
+                                "image": "/media/catalog/product/f/r/front_64.png",
+                                "desc": "24 months contract",
+                                "sub_images": [
+                                    "/media/catalog/product/f/r/front_64.png",
+                                    "/media/catalog/product/9/0/900x900_8.png"
+                                ],
+                                "order_model": "F5",
+                                "part_number": "MDR5617",
+                                "product_type": "HP",
+                                "new_customer": "0",
+                                "segment": null,
+                                "contract": "24",
+                                "upfront_installment": "8",
+                                "prices": {
+                                    "upfront_price": "500",
+                                    "device_price": "200",
+                                    "penalty_price": "500",
+                                    "supplementary_count": 0,
+                                    "special_price": 0
+                                }
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "upper_age_limit": "100",
+        "lower_age_limit": "18",
+        "promotion_message": "Choose your Internet Pass",
+        "type_purchse": {
+            "dealer": {
+                "newline": true,
+                "cobp": true,
+                "mnp": true
+            }
+        },
+        "auto_bill_type_of_purchase": {
+            "NL": "0",
+            "COBP": "0",
+            "MNP": "0"
+        },
+        "notes": "<div class=\"note__content\">\r\n            <div class=\"note__content__inner\">NOTE:</div>\r\n            <ul class=\"note__details\">\r\n                <li class=\"note__details__description\">  Applicable for customers who do NOT have a contract with Celcom at this juncture.</li>\r\n                <li class=\"note__details__description\">Do NOT submit multiple applications.</li>\r\n                <li class=\"note__details__description\">Upon successful change of plan, user will not be able to return to original plan.</li>\r\n                <li class=\"note__details__description\">Subsidy for supplementary line is not available for now.</li>\r\n                <li class=\"note__details__description\">Terms and conditions apply</li>\r\n            </ul>\r\n        </div>"
+    }
+]
